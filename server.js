@@ -7,6 +7,7 @@ let app = express();
 
 let port = 8080;
 
+//all the user routes will be mapped here
 app.use('/user',require('./routes/users'));
 
 app.listen(port);
