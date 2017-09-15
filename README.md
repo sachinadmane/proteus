@@ -1,4 +1,5 @@
 This simple REST WebService runs on port 8080
+This API calls the resources as "users"
 http://localhost:8080
 
 TO GET a user by id http://localhost:8080/user/4
